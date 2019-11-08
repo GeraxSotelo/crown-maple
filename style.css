@@ -65,3 +65,14 @@ main {
   background-size: cover;
   height: 15rem;
 }
+
+footer .row {
+  background-color: #111;
+  font-size: .85rem;
+  font-weight: bold;
+}
+
+footer .contact-info {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+}

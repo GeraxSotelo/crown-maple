@@ -1,0 +1,67 @@
+.navbar-brand {
+ margin-left: 20%;
+}
+
+.navbar i {
+  background-color: #111;
+  border-radius: 50%;
+  color: white;
+  font-size: 1.6em;
+  padding: .5em;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(53, 52, 52);
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+main {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.main-1 h1 {
+  font-size: 3em;
+}
+
+.bg-image {
+  background: url("https://images.pexels.com/photos/2059357/pexels-photo-2059357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") 
+    no-repeat left bottom;
+  background-size: cover;
+  height: 75vh;
+}
+
+.main-1 p {
+  font-size: 1.5em;
+}
+
+
+.description {
+  background-color: #111;
+  border-top: .5em solid white;
+}
+
+.main-2 h3 {
+  padding: 10% 20%;
+}
+
+.articles {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+#card-1 {
+  background: url("https://images.pexels.com/photos/40896/larch-conifer-cone-branch-tree-40896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") no-repeat center center;
+}
+
+#card-2 {
+  background: url("https://images.pexels.com/photos/273238/pexels-photo-273238.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") no-repeat center center;
+}
+
+#card-3 {
+  background: url("https://images.pexels.com/photos/911758/pexels-photo-911758.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") no-repeat center center;
+}
+
+.card-img-top {
+  background-size: cover;
+  height: 15rem;
+}
